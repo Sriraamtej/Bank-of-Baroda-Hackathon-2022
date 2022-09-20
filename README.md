@@ -1,6 +1,6 @@
 # Bank-of-Baroda-Hackathon-2022
 
-Video Analytics
+Video Analytics :
 Bank is using video cameras for the purpose of surveillance at many branches,
 ATMs and digital lobbies. Getting video analytics of different parameters from the 
 video recording will help the bank to resolve many operational issues at the branches.
