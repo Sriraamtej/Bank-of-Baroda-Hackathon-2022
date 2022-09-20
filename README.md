@@ -17,6 +17,9 @@ Constantly scanning multiple video footage for:
 5.	Time taken for activity on premises
 6.	Identification of known facilitators 
 7.	Feedback mechanism for false positives / incorrect classification for enhancement in model.
+
+
+
 Approach :
 	We are going to build a model with the help of deep learning using deep artificial neural networks.
 	We are using a data set which has different types of expressions data. 
